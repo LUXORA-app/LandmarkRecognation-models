@@ -140,43 +140,6 @@ cd api
 python app.py
 ```
 
----
-
-## 📁 Project Structure
-
-```
-ml-models/
-├── data/
-│   ├── raw/                  # Raw collected images
-│   ├── processed/            # Preprocessed dataset
-│   └── augmented/            # Augmented training data
-├── models/
-│   ├── training/             # Training scripts
-│   ├── evaluation/           # Evaluation & metrics
-│   └── saved/                # Saved model weights (.h5)
-├── notebooks/
-│   ├── EDA.ipynb             # Exploratory Data Analysis
-│   ├── training.ipynb        # Model training
-│   └── evaluation.ipynb      # Results & confusion matrix
-├── api/
-│   ├── app.py                # Inference API
-│   └── utils.py              # Helper functions
-├── requirements.txt
-└── README.md
-```
-
----
-
-## 👩‍💻 ML Team
-
-| Name | Role |
-|---|---|
-| Khaled | ML Engineer |
-| Mostafa Ezzat | ML Engineer |
-| Salma | ML Engineer |
-
----
-
 ## 🔗 Related Repositories
 
 - [📱 Mobile App](../mobile-app) — Flutter Application
