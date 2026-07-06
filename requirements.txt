@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+streamlit
+tensorflow
+pillow
+numpy
+scipy
+=======
+streamlit
+tensorflow
+pillow
+numpy
+scipy
+>>>>>>> 0a3b45ed7f3375376d8bde0c07ffc06f58bafd91
