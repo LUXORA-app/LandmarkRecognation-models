@@ -186,6 +186,7 @@ pip install -r requirements.txt
 # 4. Run the inference API
 cd api
 python app.py
+```
 
 ## 🔗 Related Repositories
 
